@@ -8,7 +8,7 @@ Proyecto final Diseño desde el Código 2021 e[ad].pucv
 * Taller de revisión final: 29 octubre
 * Fecha de entrega: 12 noviembre
 * Metodología de trabajo: Github Classroom
-* Formato de entrega: URL publicada en Github Pages
+* Formato de entrega: URL publicada en [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 
 ## De qué se trata
 
